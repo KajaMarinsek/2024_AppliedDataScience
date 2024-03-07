@@ -1,2 +1,2 @@
 # 2024_AppliedDataScience
-# Applied Data Science 
+### Notebooks for Applied DS course 2024

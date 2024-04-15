@@ -1,2 +1,2 @@
 # 2024_AppliedDataScience
-### Notebooks for Applied DS course 2024
+### Final project and other Jupyter Notebooks for Applied DS course 2024

@@ -15,6 +15,7 @@ No Scores  ![image](https://github.com/KajaMarinsek/2024_AppliedDataScience/blob
 
 
 ### After I ran my two .ipynb files to gain Scikit-learn and Pycaret results of classification of same Kickstarter data:
+![image](https://github.com/KajaMarinsek/2024_AppliedDataScience/blob/main/Data%20Modeling%20Project%20-%20Kickstarter/images/Screenshot%202024-04-17%20003034.png)
 
  __Accuracy:__ It measures the overall correctness of the model across all classes.
 In my case, the accuracy is approximately 81.12%. This means that roughly 81.12% of the predictions made by the model were correct.

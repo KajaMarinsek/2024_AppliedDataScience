@@ -23,3 +23,7 @@ In my case, the accuracy is approximately 81.12%. This means that roughly 81.12%
 __Precision:__ Precision is a measure of the correctness achieved in positive predictions made by the model. It's calculated as the ratio of true positives to the sum of true positives and false positives. In my case, the precision is approximately 75.24%. This means that when the model predicted a positive outcome, it was correct about 75.24% of the time.
 
 __Recall:__ Recall, also known as sensitivity, measures the completeness of the model. It calculates the ratio of true positives to the sum of true positives and false negatives. In my case, the recall is approximately 81.44%. This means that out of all the actual positive instances, the model correctly identified about 81.44% of them.
+
+
+![image](https://github.com/KajaMarinsek/2024_AppliedDataScience/blob/main/Data%20Modeling%20Project%20-%20Kickstarter/images/OrangeTinyIcon.png) 
+[Orange Report](https://github.com/KajaMarinsek/Mac/blob/main/OrangeKckstarterReport.pdf)
